@@ -5,7 +5,7 @@
 ## 目录结构
 + guides：Python 教程和参考手册等。
 + examples：Python 代码示例。
-  + [basics](/examples/basic/)：简单的代码示例，涵盖 Python 的基础知识，如变量、数据类型、基本操作等。
+  + [basics](/examples/basics/)：简单的代码示例，涵盖 Python 的基础知识，如变量、数据类型、基本操作等。
   + advanced：高级的代码示例，涵盖文件和文档处理、数据处理与分析、图像处理、网络与爬虫等。
 + resources：Python 网络学习资源。
 ## 如何使用
