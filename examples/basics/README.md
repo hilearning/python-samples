@@ -12,8 +12,8 @@
 4. [从列表中删除重复项](2_4_remove_duplicates.py)
 5. [简单的倒计时计时器](2_5_countdown.py)
 ## 第三组
-1. 计算两个日期之间的天数差
-2. 简单的URL提取器
-3. 简单的CSV文件读取与处理
-4. 生成斐波那契数列
-5. 简单的文件加密
+1. [计算两个日期之间的天数差](3_1_days_between_dates.py)
+2. [简单的URL提取器](3_2_extract_urls.py)
+3. [简单的CSV文件读取与处理](3_3_read_csv.py)
+4. [生成斐波那契数列](3_4_generate_fibonacci.py)
+5. [简单的文件加密](3_5_caesar_cipher.py)
