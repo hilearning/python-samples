@@ -18,11 +18,11 @@
 4. [生成斐波那契数列](3_4_generate_fibonacci.py)
 5. [简单的文件加密](3_5_caesar_cipher.py)
 ## 第四组
-1. 简单的网络请求
-2. 简单的JSON数据解析
-3. 简单的图片下载器
-4. 简单的命令行计算器
-5. 将句子中每个单词的首字母大写
+1. [简单的网络请求](4_1_fetch_webpage.py)
+2. [简单的JSON数据解析](4_2_json_parser.py)
+3. [简单的图片下载器](4_3_download_image.py)
+4. [简单的命令行计算器](4_4_calculator.py)
+5. [将句子中每个单词的首字母大写](4_5_capitalize_words.py)
 ## 第五组
 1. 简单的目录文件列表
 2. 简单的邮件发送
