@@ -36,8 +36,8 @@
 4. [过滤列表中的数据](6_4_filter_data.py)
 5. [文件批量重命名](6_5_batch_rename.py)
 ## 第七组
-1. 命令行待办事项列表
-2. 简单的日志记录器
-3. 文件重命名工具
-4. 的网页内容下载器
-5. 简单的数据去重工具
+1. [命令行待办事项列表](7_1_todo_list.py)
+2. [简单的日志记录器](7_2_setup_logger.py)
+3. [文件重命名工具](7_3_rename_files.py)
+4. [简单的网页内容下载器](7_4_download_webpage.py)
+5. [简单的数据去重工具](7_5_remove_duplicates_and_save.py)
